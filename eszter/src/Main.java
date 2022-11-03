@@ -10,6 +10,7 @@ public class Main {
       }
     }
     public static void main(String[] args) {
+        System.out.println("hello github");
         int r = 3;
         int resultArray[]=new int[r];
         int inputArray[] = {1, 2, 3, 4, 5};
